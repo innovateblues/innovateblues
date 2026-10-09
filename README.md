@@ -1,16 +1,16 @@
-## Hi there 👋
+# Innovate Blues Travel Technology 🚀
 
-<!--
-**innovateblues/innovateblues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to our official GitHub profile! We build scalable B2B & B2C travel portals, flight/hotel booking engines, and custom API integrations.
 
-Here are some ideas to get you started:
+### 🌐 Official Website & Services
+- 🔗 **Website:** [innovateblues.com](https://www.innovateblues.com)
+- ✈️ **Flight API Integrations:** Travelport GDS, Amadeus, TripJack, Akbar Travels, Parto CRS
+- 🏨 **Hotel APIs & Booking Portals:** TBO, Travel Boutique Online, Custom XML/JSON integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Backend:** PHP, Laravel, Node.js, RESTful APIs
+- **Frontend:** React.js, Next.js, Bootstrap, Tailwind CSS
+- **Database & Architecture:** MySQL, Redis, Microservices
+
+---
+*For business inquiries and tech solutions, visit our [Official Website](https://www.innovateblues.com).*
